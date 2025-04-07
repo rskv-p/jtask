@@ -291,3 +291,6 @@
 {"level":"info","module":"main","task":"async task 1","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:110","message":"executing task (placeholder)"}
 {"level":"info","module":"main","done":2,"time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:124","message":"all selected tasks processed"}
 {"level":"info","module":"main","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":false,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:59:59","caller":"/home/pafthang/Downloads/jtask/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:59:59","caller":"/home/pafthang/Downloads/jtask/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 11:59:59","caller":"/home/pafthang/Downloads/jtask/cmd/root.go:47","message":"command executed successfully"}

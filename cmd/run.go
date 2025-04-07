@@ -154,8 +154,11 @@ func executeTask(task *x_task.Task) error {
 			Str("task", task.Name).
 			Int("output_len", len(output)).
 			Msg("captured task output")
-		fmt.Println("Task Output:")
-		fmt.Println(string(output))
+		// Log the output directly rather than using fmt.Println
+		x_log.Info().
+			Str("task", task.Name).
+			Str("output", string(output)).
+			Msg("task output")
 	}
 
 	// Log success if task completes successfully

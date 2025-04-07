@@ -9,18 +9,11 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// ---------- Command Definition ----------
-
-// runsCmd allows selecting and running multiple tasks in parallel.
-// ---------- Command Definition ----------
-
-// runsCmd allows selecting and running multiple tasks in parallel.
 var runsCmd = &cobra.Command{
 	Use:   "runs",
 	Short: "Select multiple tasks to run in parallel",
 	Long:  "Select multiple tasks from the list and execute them in parallel.",
 	Run: func(cmd *cobra.Command, args []string) {
-
 		// Log the beginning of task loading
 		x_log.Info().
 			Str("path", pathFlag).
@@ -104,10 +97,14 @@ var runsCmd = &cobra.Command{
 
 				// Find the task by name
 				if task := findTaskByName(tasks, taskName); task != nil {
-					// Placeholder: execute the task (example)
-					x_log.Info().
-						Str("task", task.Name).
-						Msg("executing task (placeholder)")
+					// Execute the task
+					if err := executeTask(task); err != nil {
+						// Log task execution failure
+						x_log.Error().
+							Str("task", task.Name).
+							Err(err).
+							Msg("task execution failed")
+					}
 				} else {
 					// Log if the task is not found
 					x_log.Warn().
