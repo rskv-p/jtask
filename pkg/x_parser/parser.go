@@ -64,10 +64,15 @@ func (p *JSON) Marshal(o map[string]any) ([]byte, error) {
 		return nil, fmt.Errorf("failed to marshal map to JSON: %w", err)
 	}
 
+	// Log only the first 100 characters of the marshaled data, ensuring we don't exceed the slice bounds
+	logData := string(data)
+	if len(logData) > 100 {
+		logData = logData[:100]
+	}
 	x_log.Info().
 		Int("bytes", len(data)).
-		Str("json_data", string(data[:100])).
-		Msg("successfully marshalled map to JSON") // Log only the first 100 chars of the JSON for brevity
+		Str("json_data", logData).
+		Msg("successfully marshalled map to JSON") // Safely log the marshaled JSON
 
 	return data, nil
 }

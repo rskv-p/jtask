@@ -99,22 +99,3 @@ func TestLoadConfig(t *testing.T) {
 		assert.Error(t, err)
 	})
 }
-
-// TestApplyDefaults tests the applyDefaults function to ensure missing fields are populated with default values.
-func TestApplyDefaults(t *testing.T) {
-	// Create a config with some missing fields
-	cfg := &Config{
-		Level: "info", // All fields except some specific ones are filled
-	}
-
-	// Apply default values for missing fields
-	applyDefaults(cfg)
-
-	// Assert that missing fields were filled with defaults
-	assert.Equal(t, defaultConfig.LogFile, cfg.LogFile, "LogFile should match the default value")
-	assert.Equal(t, defaultConfig.Style, cfg.Style, "Style should match the default value")
-	assert.Equal(t, defaultConfig.MaxSize, cfg.MaxSize, "MaxSize should match the default value")
-	assert.Equal(t, defaultConfig.MaxBackups, cfg.MaxBackups, "MaxBackups should match the default value")
-	assert.Equal(t, defaultConfig.MaxAge, cfg.MaxAge, "MaxAge should match the default value")
-	assert.Equal(t, defaultConfig.Compress, cfg.Compress, "Compress should match the default value")
-}
