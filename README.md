@@ -94,7 +94,7 @@ It will let you select multiple tasks to run concurrently, and you can adjust th
 
 ### Command Flags
 
-- `--config`: Path to the configuration file (default is `_data/config.json`).
+- `--config`: Path to the configuration file (default is `.data/config.json`).
 - `--help`: Show help information about the commands.
 
 ## Logging

@@ -3,7 +3,7 @@
   "Version": "0.0.1",
   "Logger": {
     "Level": "info",
-    "LogFile": "_data/log/app.log",
+    "LogFile": "space/log/jtask.log",
     "ToConsole": false,
     "ToFile": true,
     "ColoredFile": false,

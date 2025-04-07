@@ -16,9 +16,9 @@ import (
 // Constants for config file paths and environment variables
 const (
 	ApplicationName = "jtask"
-	DefaultConfig   = "_data/config.json" // Default config file path
-	LocalConfig     = ".jtask.json"       // Local config file path
-	GlobalConfig    = "JTASK_CONFIG"      // Environment variable for custom config file path
+	DefaultConfig   = "space/cfg/jtask.json" // Default config file path
+	LocalConfig     = ".jtask.json"          // Local config file path
+	GlobalConfig    = "JTASK_CONFIG"         // Environment variable for custom config file path
 )
 
 //
