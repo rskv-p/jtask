@@ -1,0 +1,293 @@
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:31:05","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:149","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:31:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:31:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:31:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:42:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:149","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:42:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:42:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:42:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:43:16","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:149","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:43:16","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:43:16","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:43:16","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:44:38","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:149","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:44:38","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:44:38","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:44:38","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:44:46","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:149","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:44:46","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:44:46","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:44:46","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:49:33","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:49:33","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:49:33","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:49:33","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:50:50","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:50:50","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:50:50","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:50:50","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:51:34","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:51:34","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:51:34","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:51:34","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:52:59","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:52:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:52:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:52:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:53:23","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:53:23","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:53:23","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:53:23","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 06:54:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 06:54:17","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 06:54:17","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 06:54:17","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:19:59","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:158","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:19:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 08:19:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:21","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 08:19:59","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:45","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:158","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:30","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:20:12","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:49","message":"building selection options"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:20:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:75","message":"user selected task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:20:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:91","message":"executing selected task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:20:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:164","message":"task completed successfully"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:20:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:104","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:20:15","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:45","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:158","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:36:22","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:36:24","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:36:24","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:36:24","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:36:24","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:36:24","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:37:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:158","message":"logger initialized"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:37:38","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:158","message":"logger initialized"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:39:36","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:39:40","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:39:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"sequential task 1","exec":["echo","hello, sequential task 1!"],"time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"sequential task 1","output_len":26,"time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:39:49","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:41:04","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:42:15","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:42:17","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:42:19","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:44:26","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"error","module":"main","error":"user aborted","time":"07-04 08:44:53","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:65","message":"task selection aborted"}
+{"level":"info","module":"main","time":"07-04 08:44:53","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:29","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:44:55","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:46:01","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:46:01","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"sequential task 1","exec":["echo","hello, sequential task 1!"],"time":"07-04 08:46:01","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"sequential task 1","output_len":26,"time":"07-04 08:46:01","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:46:02","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 08:46:02","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:46:02","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:42","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:59","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:68","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:31","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:46:03","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:47:47","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:59","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:68","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:31","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:47","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 08:47:48","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:55","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:72","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:87","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:122","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:149","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:155","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:99","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 08:47:56","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:44","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:59","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:68","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:32","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:27","message":"loading tasks from file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:49","message":"building task selection options"}
+{"level":"debug","module":"main","time":"07-04 11:16:13","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:57","message":"prompting user to select multiple tasks"}
+{"level":"info","module":"main","selected":0,"tasks":[],"time":"07-04 11:16:17","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:74","message":"user selected tasks"}
+{"level":"info","module":"main","selected_tasks":[],"time":"07-04 11:16:17","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:79","message":"the following tasks were selected"}
+{"level":"info","module":"main","done":0,"time":"07-04 11:16:17","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:124","message":"all selected tasks processed"}
+{"level":"info","module":"main","time":"07-04 11:16:17","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:45","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:59","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:68","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:32","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:23","message":"welcome to JsonTask CLI"}
+{"level":"info","module":"main","time":"07-04 11:17:05","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:45","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:17:41","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:17:41","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:59","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:17:41","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:68","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:17:41","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:32","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 11:17:41","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:45","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:19:42","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:19:42","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:62","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:19:42","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:71","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:19:42","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","time":"07-04 11:19:42","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":true,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:62","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:71","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/list.go:24","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/list.go:41","message":"tasks successfully loaded"}
+{"level":"debug","module":"main","name":"async task 1","description":"print string from the async task 1","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/list.go:48","message":"task info"}
+{"level":"debug","module":"main","name":"sequential task 1","description":"print string from the sequential task 1","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/list.go:48","message":"task info"}
+{"level":"info","module":"main","time":"07-04 11:20:01","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":false,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:20:58","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:20:58","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:62","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:20:58","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:71","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:20:58","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"error","module":"main","error":"unknown command \"list\" for \"jt\"","time":"07-04 11:20:58","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:41","message":"command execution failed"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":false,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:62","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:71","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:49","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 11:21:08","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:57","message":"prompting user to select a task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:75","message":"user selected task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:91","message":"executing selected task"}
+{"level":"debug","module":"main","task":"async task 1","exec":["echo","hello, async task 1!"],"time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:129","message":"running task command"}
+{"level":"debug","module":"main","task":"async task 1","output_len":21,"time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:156","message":"captured task output"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:164","message":"task completed successfully"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:104","message":"task executed successfully"}
+{"level":"info","module":"main","time":"07-04 11:21:10","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
+{"level":"info","module":"main","level":"debug","log_file":"_data/log/app.log","module":"main","console":false,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"debug","module":"main","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:62","message":"initializing root command with --config flag"}
+{"level":"debug","module":"main","default_path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:71","message":"initialized config file flag"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:25","message":"loading tasks from config file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:157","message":"reading file"}
+{"level":"debug","module":"main","path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:181","message":"JSON parsed successfully"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:49","message":"building selection options"}
+{"level":"debug","module":"main","time":"07-04 11:21:29","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:57","message":"prompting user to select a task"}
+{"level":"error","module":"main","error":"user aborted","time":"07-04 11:21:37","caller":"/home/pafthang/Downloads/yatr/cmd/run.go:67","message":"task selection aborted"}
+{"level":"info","module":"main","time":"07-04 11:21:37","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
+{"level":"info","module":"main","level":"info","log_file":"_data/log/app.log","module":"main","console":false,"file":true,"colored_file":false,"style":"dark","time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/pkg/x_log/logger.go:151","message":"logger initialized"}
+{"level":"info","module":"main","command":"jt","time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:34","message":"executing root command"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:27","message":"loading tasks from file"}
+{"level":"info","module":"main","path":"./tasks.json","time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:54","message":"loading tasks from file"}
+{"level":"info","module":"main","count":2,"path":"./tasks.json","time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/pkg/x_task/task.go:71","message":"tasks loaded successfully"}
+{"level":"info","module":"main","count":2,"time":"07-04 11:22:09","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:49","message":"building task selection options"}
+{"level":"info","module":"main","selected":2,"tasks":["async task 1","sequential task 1"],"time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:74","message":"user selected tasks"}
+{"level":"info","module":"main","selected_tasks":["async task 1","sequential task 1"],"time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:79","message":"the following tasks were selected"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:103","message":"starting task"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:103","message":"starting task"}
+{"level":"info","module":"main","task":"sequential task 1","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:110","message":"executing task (placeholder)"}
+{"level":"info","module":"main","task":"async task 1","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:110","message":"executing task (placeholder)"}
+{"level":"info","module":"main","done":2,"time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/runs.go:124","message":"all selected tasks processed"}
+{"level":"info","module":"main","time":"07-04 11:22:15","caller":"/home/pafthang/Downloads/yatr/cmd/root.go:47","message":"command executed successfully"}
